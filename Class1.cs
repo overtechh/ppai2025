@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace CierreOrdenApp
 {
-    public class Sismografo
+    internal class Class1
     {
-        public string Identificador { get; set; }
     }
 }
